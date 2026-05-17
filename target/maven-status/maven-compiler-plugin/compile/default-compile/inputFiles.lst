@@ -1,0 +1,9 @@
+C:\Users\david\Desktop\Vivaeventos\microservicios-vivaeventos\auth-service\src\main\java\co\vivaeventos\authservice\dto\RegisterRequest.java
+C:\Users\david\Desktop\Vivaeventos\microservicios-vivaeventos\auth-service\src\main\java\co\vivaeventos\authservice\AuthServiceApplication.java
+C:\Users\david\Desktop\Vivaeventos\microservicios-vivaeventos\auth-service\src\main\java\co\vivaeventos\authservice\model\User.java
+C:\Users\david\Desktop\Vivaeventos\microservicios-vivaeventos\auth-service\src\main\java\co\vivaeventos\authservice\service\UserService.java
+C:\Users\david\Desktop\Vivaeventos\microservicios-vivaeventos\auth-service\src\main\java\co\vivaeventos\authservice\dto\AuthResponse.java
+C:\Users\david\Desktop\Vivaeventos\microservicios-vivaeventos\auth-service\src\main\java\co\vivaeventos\authservice\controller\AuthController.java
+C:\Users\david\Desktop\Vivaeventos\microservicios-vivaeventos\auth-service\src\main\java\co\vivaeventos\authservice\repository\UserRepository.java
+C:\Users\david\Desktop\Vivaeventos\microservicios-vivaeventos\auth-service\src\main\java\co\vivaeventos\authservice\service\JwtService.java
+C:\Users\david\Desktop\Vivaeventos\microservicios-vivaeventos\auth-service\src\main\java\co\vivaeventos\authservice\dto\LoginRequest.java

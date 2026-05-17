@@ -1,0 +1,9 @@
+co\vivaeventos\authservice\controller\AuthController.class
+co\vivaeventos\authservice\dto\RegisterRequest.class
+co\vivaeventos\authservice\model\User.class
+co\vivaeventos\authservice\repository\UserRepository.class
+co\vivaeventos\authservice\service\UserService.class
+co\vivaeventos\authservice\AuthServiceApplication.class
+co\vivaeventos\authservice\dto\AuthResponse.class
+co\vivaeventos\authservice\dto\LoginRequest.class
+co\vivaeventos\authservice\service\JwtService.class
